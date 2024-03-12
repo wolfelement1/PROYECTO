@@ -1,11 +1,11 @@
-
+import { Icon } from '@iconify/react';
 
 function App() {
   
 
   return (
     <>
-      <p>hola</p>
+      <Icon icon="mdi-light:home"/>
     </>
   )
 }
